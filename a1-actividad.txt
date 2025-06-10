@@ -3,3 +3,7 @@ Segundo cambio
 
 primer cambio de user1
 segundo cambio de user1
+Segundo cambio  
+
+primera cambio de user2
+segundo cambio de user2
